@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComponentsTest</string>
+
+    <string name="text_login">Login</string>
+    <string name="text_hint_login">Usuario</string>
+    <string name="text_hint_password">Contraseña</string>
+
+    <string name="message_error_empty_username">El usuario es requerido.</string>
+    <string name="message_error_empty_password">La constraseña es requerido.</string>
+</resources>
